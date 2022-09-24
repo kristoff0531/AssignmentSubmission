@@ -9,7 +9,7 @@ class game{
 
     public game(){
         Random r=new Random();
-        random=r.nextInt(50);
+        random=r.nextInt(100);
     }
 
     public void takeInput(){
